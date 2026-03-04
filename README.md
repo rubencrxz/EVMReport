@@ -1,1 +1,3 @@
-# EVMReport
+# 𖢻 ETHEREUM VIRTUAL MACHINE:
+This repository contains a technical report that studies the Ethereum Virtual Machine from a low-level, execution-centric angle. It builds a rigorous mental model of how Ethereum actually runs code: EVM architecture and call frames, the world state and account model, data regions, call types, and the gas + fee market as both a resource model and a security boundary. 
+It also connects these fundamentals to practical security implications  and closes with a protocol-evolution view of what’s already live and what’s on the roadmap. The content is grounded in primary references plus official documentation and high-signal technical resources.
